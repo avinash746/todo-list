@@ -69,5 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+## Deploy links:https://iridescent-kitsune-d0aa57.netlify.app/
+
 ## images
 ![image](https://github.com/user-attachments/assets/87b4a983-4d9d-42fa-9547-c31456f8e8a8)
